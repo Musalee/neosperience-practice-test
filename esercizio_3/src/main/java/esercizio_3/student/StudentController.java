@@ -9,7 +9,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 
-// Creazione del controller rest necessario per le richieste HTTP all'API
+// Annotazione della classe come RestController necessario alla creazione dell'API Rest
 @RestController
 public class StudentController {
     final ArrayList<Student> students = new ArrayList<>();
