@@ -1,4 +1,4 @@
-# Variabili per ottenere la sequenza di fibonacci, alla prima è assegnato il numero precendente alla seconda 
+# Variabili per ottenere la sequenza di fibonacci, alla prima variabile è assegnato il numero precendente, alla seconda 
 # quello attuale
 prevN = 0
 n = 1
